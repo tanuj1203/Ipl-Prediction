@@ -75,9 +75,6 @@ python live_model.py
 python app.py
 5️⃣ Open in Browser
 http://127.0.0.1:5000
-📸 Screenshots
-
-(Add screenshots here for better GitHub visibility)
 
 🔥 Future Enhancements
 📡 Live API integration (real IPL matches)
