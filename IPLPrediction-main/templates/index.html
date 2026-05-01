@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IPL Predictor</title>
+</head>
+<body>
+
+<h1>🏏 IPL Match Predictor</h1>
+
+<form action="/predict" method="POST">
+
+    <label>Team 1:</label>
+    <select name="team1">
+        {% for team in teams %}
+        <option value="{{ team }}">{{ team }}</option>
+        {% endfor %}
+    </select><br><br>
+
+    <label>Team 2:</label>
+    <select name="team2">
+        {% for team in teams %}
+        <option value="{{ team }}">{{ team }}</option>
+        {% endfor %}
+    </select><br><br>
+
+    <label>City:</label>
+    <select name="city">
+        {% for city in cities %}
+        <option value="{{ city }}">{{ city }}</option>
+        {% endfor %}
+    </select><br><br>
+
+    <button type="submit">Predict Winner</button>
+
+</form>
+
+{% if prediction_text %}
+    <h2>{{ prediction_text }}</h2>
+{% endif %}
+
+</body>
+</html>

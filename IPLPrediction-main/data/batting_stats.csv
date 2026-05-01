@@ -1,0 +1,16 @@
+position,batsman,team,matches,innings,runs,impact,average,strike_rate,not_outs,high_score,balls_faced,hundreds,fifties,ducks,fours,sixes
+1,Shubman Gill,GT,4,4,251,230.1,62.75,154.93,0,86,162,0,3,0,24,10
+2,Virat Kohli,RCB,5,5,228,166.5,57,158.33,1,69,144,0,2,0,25,8
+3,Heinrich Klaasen,SRH,5,5,224,151.1,44.8,142.67,0,62,157,0,2,0,13,8
+4,Rajat Patidar,RCB,5,5,222,270.9,55.5,213.46,1,63,104,0,2,0,12,21
+5,Ishan Kishan,SRH,5,5,213,263.7,42.6,190.17,0,91,112,0,2,0,22,12
+6,Prabhsimran Singh,PBKS,5,4,211,218.6,70.33,172.95,1,80,122,0,2,0,22,11
+7,Shreyas Iyer,PBKS,5,4,203,195.6,67.66,187.96,1,69,108,0,3,0,14,14
+8,Jos Buttler,GT,5,5,201,202.7,40.2,159.52,0,60,126,0,2,0,24,9
+9,Vaibhav Sooryavanshi,RR,5,5,200,285.3,40,263.15,0,78,76,0,2,1,18,18
+10,Angkrish Raghuvanshi,KKR,6,6,190,136.8,38,157.02,1,52,121,0,2,0,22,7
+11,Sanju Samson,CSK,5,5,185,212.4,46.25,172.89,1,115,107,1,0,0,21,8
+12,Yashasvi Jaiswal,RR,5,5,184,158,61.33,157.26,2,77,117,0,2,0,19,10
+13,Dhruv Jurel,RR,5,5,176,177.9,44,177.77,1,81,99,0,2,1,17,8
+14,Ayush Mhatre,CSK,5,5,171,173,34.2,171,0,73,100,0,2,1,15,11
+15,Sameer Rizvi,DC,4,4,166,179.1,55.33,153.7,1,90,108,0,2,1,13,11
